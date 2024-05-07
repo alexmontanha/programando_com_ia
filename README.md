@@ -10,6 +10,8 @@ Leia mais sobre o que são as IAs Generativas [aqui](capitulo_1/o_que_sao_ias.md
 
 Sim, algumas IAs são capazes de gerar códigos de programação. Elas podem ser treinadas para entender a sintaxe e a semântica de uma linguagem de programação e, em seguida, gerar códigos que realizam tarefas específicas.
 
+Leia mais sobre como as IAs aprendem a programar [aqui](capitulo_2/as_ias_sabem_programar.md).
+
 ## 3) Abordagens
 
 Existem várias abordagens para o uso de IA no desenvolvimento de sistemas. Algumas delas incluem:
