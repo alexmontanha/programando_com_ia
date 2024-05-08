@@ -6,7 +6,7 @@ Sim, considerando que programar seja gerar código utilizável em determinada de
 
 As IAs aprendem a programar da mesma maneira que aprendem a realizar outras tarefas: através de um processo chamado aprendizado de máquina. Elas são alimentadas com grandes quantidades de código de exemplo e usam esses exemplos para aprender os padrões e estruturas comuns na programação.
 
-Leia mais sobre como as IAs aprendem a programar [aqui](capitulo_2/como_ias_aprendem_programar.md).
+Leia mais sobre como as IAs aprendem a programar [aqui](../capitulo_2/como_ias_aprendem_programar.md).
 
 ## 2.2 Que tipos de tarefas de programação as IAs podem realizar?
 
