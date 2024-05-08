@@ -1,5 +1,9 @@
 # Oficina: Desenvolvimento de Sistemas Auxiliado por IA Generativa
 
+## Author
+
+Por [Alexandre Montanha](author.md)
+
 ## 1) O que são as IAs Generativas?
 
 As **Inteligências Artificiais Generativas** são sistemas de IA que podem gerar novos conteúdos a partir de dados de treinamento. Elas são capazes de criar coisas como imagens, textos, músicas e até mesmo códigos de programação.
