@@ -20,7 +20,7 @@ Os comandos de prompt para ChatGPT podem variar dependendo do tipo de conteúdo 
 
 Leia mais sobre comandos [aqui](../capitulo_3/comando_eng_prompt.md)
 
-## 3.1.4 Exemplos de Engenharia de Prompt para Criação de Códigos em C`#`
+## 3.1.4 Exemplos de Engenharia de Prompt para Criação de Códigos em C\#
 
 Aqui estão alguns exemplos de prompts que você pode usar para gerar códigos em C# com a IA:
 

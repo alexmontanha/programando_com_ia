@@ -1,6 +1,6 @@
 # 2 IAs sabem programar?
 
-Sim, algumas Inteligências Artificiais são capazes de gerar códigos de programação. Elas podem ser treinadas para entender a sintaxe e a semântica de uma linguagem de programação e, em seguida, gerar códigos que realizam tarefas específicas.
+Sim, considerando que programar seja gerar código utilizável em determinada demanda, que execute e resolva problemas, algumas Inteligências Artificiais são capazes de gerar códigos de programação. Elas podem ser treinadas para entender a sintaxe e a semântica de uma linguagem de programação e, em seguida, gerar códigos que realizam tarefas específicas.
 
 ## 2.1 Como as IAs aprendem a programar?
 

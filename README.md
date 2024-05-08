@@ -20,17 +20,25 @@ Existem várias abordagens para o uso de IA no desenvolvimento de sistemas. Algu
 
 A engenharia de prompt envolve a criação de prompts ou instruções claras para a IA, que a orientam a gerar o tipo de conteúdo desejado.
 
+Leia mais sobre engenharia de prompt [aqui](capitulo_3/engenharia_prompt.md).
+
 ### 3.2) Roteiro de estudo
 
 A IA pode ser usada para criar um roteiro de estudo personalizado, adaptando-se ao ritmo e ao estilo de aprendizado do aluno.
+
+Leia mais sobre roteiro de estudo [aqui](capitulo_3/roteiro_de_estudo.md).
 
 ### 3.3) IA explicando o código
 
 A IA pode ser usada para explicar o código, ajudando os desenvolvedores a entender melhor o código existente.
 
+Leia mais sobre IA explicando o código [aqui](capitulo_3/explicando_codigo.md).
+
 ### 3.4) IA gerando exercícios
 
 A IA pode gerar exercícios de programação personalizados para ajudar os desenvolvedores a praticar suas habilidades.
+
+Leia mais sobre IA gerando exercícios [aqui](capitulo_3/gerando_exercicios_ia.md).
 
 ### 3.5) IA corrigindo códigos
 
@@ -40,26 +48,12 @@ A IA pode ser usada para corrigir códigos, identificando erros e sugerindo corr
 
 A IA pode ser usada como um parceiro de programação, ajudando os desenvolvedores a escrever código de maneira mais eficiente.
 
-## 4) Engenharia de prompt
+Leia mais sobre IA como parceiro de programação [aqui](capitulo_3/per_programming.md).
 
-A engenharia de prompt é uma técnica usada para orientar a IA a gerar o tipo de conteúdo desejado. Isso é feito criando prompts ou instruções claras para a IA. A engenharia de prompt é importante porque ajuda a IA a entender melhor o que se espera dela. Além disso, a construção de contexto e follow-ups são essenciais para manter a coerência e relevância das respostas da IA.
+### 3.7) Refinamentos sucessivos, com feedback e inclusão de novos dados, para resolução de problemas mais complexos
 
-## 5) Montando roteiro de estudos com uma IA
+A IA pode ser treinada com feedback e inclusão de novos dados para resolver problemas mais complexos ao longo do tempo.
 
-A IA pode ser usada para criar um roteiro de estudo personalizado. Isso pode ser feito analisando o progresso do aluno, identificando áreas de dificuldade e sugerindo recursos de aprendizado relevantes.
+Não se trata apenas de gerar códigos, mas de criar um ambiente de aprendizado e desenvolvimento de sistemas auxiliado por IA generativa.
 
-## 6) IA como tutor explicando códigos
-
-A IA pode ser usada para explicar o código. Isso pode ser feito fazendo a IA analisar o código e gerar explicações claras e compreensíveis sobre o que o código faz e como funciona.
-
-## 7) Listas de exercícios personalizadas geradas pela IA
-
-A IA pode gerar listas de exercícios personalizadas para ajudar os desenvolvedores a praticar suas habilidades de programação. Isso pode ser feito fazendo a IA analisar o nível de habilidade do desenvolvedor e gerar exercícios que são adequados para esse nível.
-
-## 8) IA como tutor corrigindo exercícios
-
-A IA pode ser usada para corrigir exercícios de programação. Isso pode ser feito fazendo a IA analisar o código do exercício e identificar quaisquer erros. A IA pode então sugerir correções para esses erros.
-
-## 9) Pair programming (XP) com IAs
-
-A IA pode ser usada como um parceiro de programação em uma abordagem de programação extrema (XP). Isso pode ser feito fazendo a IA trabalhar em conjunto com o desenvolvedor, ajudando a escrever código, sugerindo melhorias e identificando possíveis erros.
+Além disso, refinar pode e deve ser feito em conjunto com todas as outras estratégias, como a engenharia de prompt, roteiro de estudo, explicação de código, geração de exercícios, correção de códigos e pair programming.
